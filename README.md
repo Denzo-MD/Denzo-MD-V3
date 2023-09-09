@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
-    <img alt=Support height="550" src="https://i.imgur.com/l2nUnSK.jpeg"> 
+    <img alt=Support height="550" src="https://i.imgur.com/hCyLlew.jpeg"> 
     </p>
 <h1 align="center"> 𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻
 </h1>
