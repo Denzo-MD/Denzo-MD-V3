@@ -3,8 +3,12 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6">
-    <img alt=Support height="550" src="https://i.imgur.com/hCyLlew.jpeg"> 
+    <img alt=Support height="550" src="https://i.imgur.com/nkroZCU.jpeg"> 
     </p>
 <h1 align="center"> 𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻
 </h1>
 <p align="center"> 𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻
+<p align="center">
+ <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
