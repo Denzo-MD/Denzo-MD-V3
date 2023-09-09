@@ -32,3 +32,20 @@ tu<div align="center">
 
 
 [![Deployer sur Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Denzo-MD/Denzo-MD-V3&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2449354695268&env[MONGODB_URI]&&env[OWNER_NAME]=Denzo&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.imgur.com/nkroZCU.jpeg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=Denzo-MD&env[PACK_INFO]=Denzo-MD;BY-Denzo&name=Denzo-MD-V3&env[KOYEB_NAME]=Denzo-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+
+
+## ``` ⚡TEAM DENZO UCHIWA⚡ :```
+
+ 
+
+  <div align="center">
+
+ 
+
+|----|----|----|----|
+
+| [Denzo uchiwa](https://github.com/Denzo-MD) |
+
+| ⭐DENZO 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥⭐ |
+
+  
