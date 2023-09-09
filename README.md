@@ -14,4 +14,6 @@
  </a> 
   
 ***Get [✨SCAN_QR_BO✨](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) Scanner le code QR pour avoir la session. `Whatapp>Linked Devices`***
+
+
 ***Clicquer sur  [FORK](https://github.com/Denzo-MD/Denzo-MD/fork)***
