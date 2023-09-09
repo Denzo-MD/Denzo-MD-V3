@@ -1,4 +1,4 @@
-<div align="center">
+tu<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Salut+Je+suis+𝑫𝑬𝑵𝒁𝑶-𝑴𝑫 𝑩𝑶𝑻;MULTI+DEVICE+WHATSAPP+BOT; CRÉÉ+PAR+✨DENZO Uchiwa✨;PUBLIC+BOT; DÉVELOPPÉ+PAR+LA+TEAM+DENZO." alt="Typing SVG" /></a>
 </p>
 <p align="center">
@@ -26,3 +26,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Denzo-MD/Denzo-MD-V3)
 ---------
+
+
+## ```KOYEB DEPLOYMENT``` 
+
+
+[![Deployer sur Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Denzo-MD/Denzo-MD-V3&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2449354695268&env[MONGODB_URI]&&env[OWNER_NAME]=Denzo&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://i.imgur.com/nkroZCU.jpeg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=Denzo-MD&env[PACK_INFO]=Denzo-MD;BY-Denzo&name=Denzo-MD-V3&env[KOYEB_NAME]=Denzo-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
