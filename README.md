@@ -12,3 +12,8 @@
  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+1. ***Get [⚡SCAN QR⚡](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) by scanning QR code. `Whatapp>les trois points en haut>Appareil connecter`***
+--- 
+# ```Fork Repo```
+2. ***Click [FORK](https://github.com/Denzo-MD/Denzo-MD/fork)***
+ 
