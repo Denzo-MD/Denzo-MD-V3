@@ -13,7 +13,7 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a> 
   
-***Get [✨SCAN_QR_BO✨](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) Scanner le code QR pour avoir la session. `Whatapp>Linked Devices`***
+***Get [✨SCAN_QR_BOT✨](https://replit.com/@Smith2023/DENZO-UCHIWA-3?v=1) Scanner le code QR pour avoir la session. `Whatapp>Appareil connecter`***
 
 
 ***Clicquer sur  [FORK](https://github.com/Denzo-MD/Denzo-MD/fork)***
